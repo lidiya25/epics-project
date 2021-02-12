@@ -1,0 +1,29 @@
+							Velagapudi Ramakrishna Siddhartha Engineering College
+								Department of information Technology
+								Class 3rd Year Section:B Year:2020-2021
+									CLICK CHAT
+
+Motivation:
+The Motivation is associating customers and business, as opposed to family and friends.The application is gone for entrepreneurs. It’s intended to make its simpler for them to speak with clients and deal with their orders.The service clients can make a company profile and consist of information like that organizations website,get in touch with,and also location info to it. 
+Problem Description:
+The general, it is well–known the smartphone usage influence user privacy. Through this click chart we are going to provide more security to the users and they can send messages safely.Every messenger web browser has its own speciality.
+Social Benefits:
+The features are very easy to use and users can share photos, locations with others.
+Innovation and Uniqueness:
+Our system is build using Firebase firestore -is a cloud-hosted NoSQL database that lets you store and sync data between users in realtime , Material UI which is one of the top user interface libraries for React out there, React Router-keeps your UI in sync with the URL. It has a simple API with powerful features like code loading, dynamic route matching, and location transition handling built right in, Redux is the root file which is responsible for the creation of store and rendering our react app component.
+Feasible Solution:
+This website can be used in real time applications to ensure the privacy of the users, to send messages, to share photos.As we are providing Google authentication,the display picture from the mail is appear as display picture in our application.
+
+    ROLL 
+ NUMBER	   NAME	       EMAILID	PHONE NUMBER
+188W1A1261	A.Sneha	snehaalaparthi01@gmail.com	6304762130
+188W1A1297	P.Vani Manasa	manasapeela24@gmail.com	9951151512
+188W1A12B3	V.Lidiya	lidiyavemuri@gmail.com	6303304973
+198W5A1210	G.Sharmila	sharmilagolla@gmail.com	9676824221
+
+																					
+																				
+                                                             DR.K.SITAKUMARI																					[FACULTY GUIDE]
+
+
+
